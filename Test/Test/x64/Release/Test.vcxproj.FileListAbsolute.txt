@@ -1,0 +1,7 @@
+C:\Users\MasterChief\source\repos\Test\Test\x64\Release\Test.vcxproj.AssemblyReference.cache
+C:\Users\MasterChief\source\repos\Test\Test\x64\Release\Test.MyForm.resources
+C:\Users\MasterChief\source\repos\Test\Test\x64\Release\Test.vcxproj.GenerateResource.cache
+C:\Users\Lina\Desktop\Test\Test\x64\Release\Test.vcxproj.AssemblyReference.cache
+C:\Users\Lina\Desktop\Test\Test\x64\Release\Test.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Lina\Desktop\Test\Test\x64\Release\Test.MyForm.resources
+C:\Users\Lina\Desktop\Test\Test\x64\Release\Test.vcxproj.GenerateResource.cache

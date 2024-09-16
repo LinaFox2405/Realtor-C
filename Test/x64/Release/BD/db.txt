@@ -1,0 +1,9 @@
+[USER]{phone: 8919167165
+Хочу быстро и качественно!};
+[Gun]{email: 122@mail.ru
+ПОЖАЛУЙСТА ПОМОГИТЕ МНЕ НЕГДЕ ЖИТЬ!!!};
+[yy]{email: yyy@ya.ru
+test tes te
+test};
+[andrey_s]{phone: 43523523
+ХАЧУ ДОМ!};
